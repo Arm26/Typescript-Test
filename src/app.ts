@@ -60,4 +60,3 @@ console.log(getHandScore("J Q K")); // Output: 32.5
 console.log(getHandScore("H2 S3 H2")); // Output: 4 : H2 H2
 console.log(getHandScore("3 3 3")); // Output: 32.5
 console.log(getHandScore("A A S3")); // Output: 0
-
